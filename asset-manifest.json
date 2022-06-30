@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/facebook-ui-clone/static/css/main.447f6c1d.css",
+    "main.css": "/facebook-ui-clone/static/css/main.c179839f.css",
     "main.js": "/facebook-ui-clone/static/js/main.9d1cec37.js",
     "static/media/profile-picture.png": "/facebook-ui-clone/static/media/profile-picture.3717a5476f2978e324a9.png",
     "static/media/react-logo.svg": "/facebook-ui-clone/static/media/react-logo.a0ff0d9010395cb50f397a7111d11f7e.svg",
@@ -40,11 +40,11 @@
     "static/media/mail.svg": "/facebook-ui-clone/static/media/mail.9381b5c381270374e8b33c2c6ce89cd4.svg",
     "static/media/flat-menu.svg": "/facebook-ui-clone/static/media/flat-menu.9f82fef1449ce5c2e03df5d287981e51.svg",
     "static/media/caret.svg": "/facebook-ui-clone/static/media/caret.17f0a4fb24c6564ffcbd1ce6ce1d6c92.svg",
-    "main.447f6c1d.css.map": "/facebook-ui-clone/static/css/main.447f6c1d.css.map",
+    "main.c179839f.css.map": "/facebook-ui-clone/static/css/main.c179839f.css.map",
     "main.9d1cec37.js.map": "/facebook-ui-clone/static/js/main.9d1cec37.js.map"
   },
   "entrypoints": [
-    "static/css/main.447f6c1d.css",
+    "static/css/main.c179839f.css",
     "static/js/main.9d1cec37.js"
   ]
 }
