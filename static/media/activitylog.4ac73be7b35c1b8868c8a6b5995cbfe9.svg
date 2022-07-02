@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" style="stroke-width: 10; stroke: black">
+<svg viewBox="0 0 512 512" style="stroke-width: 10; stroke: currentColor">
   <g>
     <g>
       <path d="M79.428,34.643H22.737C10.179,34.643,0,44.822,0,57.379v56.692c0,12.557,10.179,22.737,22.737,22.737h56.692
